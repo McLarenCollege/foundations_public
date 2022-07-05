@@ -1,6 +1,6 @@
 
-Guess The Output of the following code: 
-Do not run the code
+Guess The Output of the following code.
+Do not run the code.
 
 ```js
 let a = 3 + 3;
