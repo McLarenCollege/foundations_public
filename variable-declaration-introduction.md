@@ -1,4 +1,4 @@
-<img src = 'https://github.com/McLarenCollege/foundations_public/raw/main/images/variable-declaration-introduction.png' width = 300/>
+<img src = 'https://github.com/McLarenCollege/foundations_public/raw/main/images/variable-declaration-introduction.png' width = 400/>
 
 Guess the output of the following code.
 
