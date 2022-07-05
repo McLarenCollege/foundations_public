@@ -1,11 +1,4 @@
+Guess the output of the following code:
 
-Guess the output of the following code.
+<img src = 'https://github.com/McLarenCollege/foundations_public/raw/main/images/variable-declaration-introduction.png' width = 400/>
 
-Do not run the code until after you make a guess.
-
-```js
-let a = 3 + 3;
-let b = a;
-a = 7;
-console.log(a, b); 
-```
