@@ -1,6 +1,7 @@
 
-Guess The Output of the following code.
-Do not run the code.
+Guess the output of the following code.
+
+Do not run the code until after you make a guess.
 
 ```js
 let a = 3 + 3;
