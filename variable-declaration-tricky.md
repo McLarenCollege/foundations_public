@@ -1,9 +1,3 @@
-Guess the output of the following code.
+Guess the output of the following code:
 
-Do not run the code until after you make a guess.
-
-```js
-let a = 5;
-let result = "a" + 7;
-console.log(result);
-```
+<img src='https://github.com/McLarenCollege/foundations_public/raw/main/images/variable-declaration-tricky.png' width=400/img>
