@@ -1,3 +1,4 @@
+<img src = 'https://github.com/McLarenCollege/foundations_public/raw/main/images/variable-declaration-introduction.png' />
 
 Guess the output of the following code.
 
