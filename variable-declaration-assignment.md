@@ -1,11 +1,4 @@
-Guess the output of the following code.
+Guess the output of the following code :
 
-Do not run the code until after you make a guess.
+<img src='https://github.com/McLarenCollege/foundations_public/raw/main/images/variable-declaration-assignment.png' width=400/img>
 
-```js
-let name = "Fred";
-let age = 6;
-name = age + 4;
-age = age + 2 % 5;
-console.log(name, age);
-```
