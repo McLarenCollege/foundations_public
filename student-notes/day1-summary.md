@@ -9,7 +9,7 @@
 * The `-`, `*` and `/` will implicitly convert any string input to a number.
 * If a string cannot be converted to a number it will have a special value `NaN`.
 * When there are multiple operations in an expression, *operator precedence* applies :
-  * Subexperessions in brackets are performed first.
+  * Sub-experessions in brackets are performed first.
   * `*`, `/` and `%` are performed before `+` and `-`.
   * Operators with the same precedence are performed left to right.
 * An *expression trace* shows the result of each operation on a separate line.
