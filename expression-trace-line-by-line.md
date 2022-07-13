@@ -5,6 +5,8 @@ console.log(4 * (1 + '0' + 1));
 ```
 
 EXPRESSION TRACE:
+
 4 * (1 + '0' + 1)
+
 // write the next line here
 
