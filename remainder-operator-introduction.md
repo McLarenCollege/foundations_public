@@ -1,5 +1,5 @@
 Guess the output of the following code :
 
  ```js
- console.log(17 % 5);
+ console.log(22 % 6);
  ```
