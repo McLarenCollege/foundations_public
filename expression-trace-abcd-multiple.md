@@ -1,4 +1,4 @@
-Draw an Object Diagram for the following code. Dont forget to step through the code and update the Object Diagram as you go
+Write an expression trace for lines 4, 5, 6 and 7:
 
 ```js
 let a = 3;
