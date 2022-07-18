@@ -1,4 +1,4 @@
-Write an expression trace for the following code
+Write an expression trace for line 5 of the following code
 
 ```js
 let a = 1;
