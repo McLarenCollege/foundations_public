@@ -1,8 +1,4 @@
 
 Guess the output
 
-```js
-let a = 17 % 2;
-let b = (a % a) < (2 - a);
-console.log(b);
-```
+<img src="https://raw.githubusercontent.com/McLarenCollege/foundations_public/main/guess-output-less-than.png" width=400 />
