@@ -1,8 +1,3 @@
 Guess the output for the following code :
 
-```js
- let a = 6;
- let b = '' + a;
- let c = 6 + b -a;
- console.log(c);
-```
+<img src="https://raw.githubusercontent.com/McLarenCollege/foundations_public/main/subtracting-string-and-number-guess-output.png" width=300 />
