@@ -22,11 +22,3 @@ else{
 ```
 
 Write code to achieve the same output  WITHOUT using an else block.
-
-***CODE TEMPLATE***
-*****************
-```js
-let age = 34;
-// write your  statements here to print the required messages according to the value of the age variable
-```
-*******************
