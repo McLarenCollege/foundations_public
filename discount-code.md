@@ -9,7 +9,7 @@ the discount code is "SUPERSENIOR".
 ```JS
 let discountCode = "SUPERSENIOR";
 let age = 45;
-let getsDiscount = // write your expression here
+let getsDiscount = ; // write your expression here
 console.log(getsDiscount);
 ```
 **************
