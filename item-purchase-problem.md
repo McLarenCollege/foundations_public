@@ -9,3 +9,16 @@ let bankBalance = 260.50;
 let price = 52.50;
 // write your code here
 ```
+
+As a useful reference when writing your code above, here is an example of an if-else statement:
+
+```js
+let age = 21;
+
+if (age >= 21) {
+  console.log("Can vote");
+} 
+else {
+  console.log("Cannot vote");
+}
+```
