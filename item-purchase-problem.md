@@ -15,13 +15,5 @@ let price = 52.50;
 ### Example of if-else
 As a useful reference when writing your code above, here is an example of an if-else statement:
 
-```js
-let age = 21;
+<img src="https://raw.githubusercontent.com/McLarenCollege/foundations_public/main/images/if-else-reference.png" width=600 />
 
-if (age >= 21) {
-  console.log("Can vote");
-} 
-else {
-  console.log("Cannot vote");
-}
-```
