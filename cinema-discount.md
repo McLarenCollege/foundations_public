@@ -1,7 +1,7 @@
 
 A cinema always gives children (aged less than 12 years) a discount.  
 It also gives seniors (aged at least 65) a discount on Mondays and Tuesdays.  
-Given the day of week and patron's age, write a boolean expression to calculate if the patron is entitled to a discount.
+Given the day of week and patrons age, write a boolean expression to calculate if the patron is entitled to a discount.
 
 ***CODE TEMPLATE***
 ****************
