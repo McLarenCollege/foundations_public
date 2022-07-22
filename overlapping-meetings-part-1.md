@@ -1,15 +1,11 @@
-Two meetings have a start and end time, denoted as hours since midnight.
+Two meetings have a start and end time, denoted as hours since midnight.  For example,
 
-Meeting 1 starts at 8 am and finishes at 12 noon
-
-Meeting 2 starts at 11:30 am and finishes at 1:00 pm (13:00).
+- Meeting 1 starts at 8 am and finishes at 12 noon.
+- Meeting 2 starts at 11:30 am and finishes at 1:00 pm (13:00).
 
 Write code to calculate whether the two meetings overlap.
 
 Note : meeting 1 will always start before meeting 2
-
-***CODE TEMPLATE***
-***************************
 
 ```js
 let meeting1Start = 8;
@@ -24,4 +20,4 @@ else {
   console.log('Meetings do not overlap');
 }
 ```
-******************************
+
