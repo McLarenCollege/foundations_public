@@ -9,6 +9,8 @@ For example:
 - If the first line is `let name = 'Rahul';` then the code should print `Good Morning, Rahul!`
 - If the first line is `let name = undefined;"` then the code should print `Good Morning!`
 
+Note the exlamation mark at the end of each possible output
+
 ```js
 let name = "Mark";
 
