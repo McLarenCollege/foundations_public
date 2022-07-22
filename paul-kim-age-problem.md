@@ -1,4 +1,4 @@
-Given Paul's Age and Kim's Age write code to print the following statements:
+Given Paul's age and Kim's age write code to print the following statements:
 
 - If Kim is older print "Kim is older than Paul by *** years".
 - If Paul is older print "Paul is older than Kim by *** years".
