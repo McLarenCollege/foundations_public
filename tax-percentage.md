@@ -7,7 +7,7 @@ Given the income of a person and whether he or she has children, calculate the t
 For example, 
 
 - If a person with children has an income of 60,000 then the tax is 43%
-- If a person without children has an income of 20,000 then the tax is 40%
+- If a person without any children has an income of 20,000 then the tax is 40%
 - If a person with children has an income of 15,000 then the tax is 38%
 
 
