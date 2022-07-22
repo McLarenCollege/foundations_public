@@ -7,3 +7,7 @@ Given a person's name print the appropriate greeting.
 let name = "Mark";
 // write your code here
 ```
+
+For example:
+- If the first line is `let name = "Maahi;"` then the code should print `Good Morning, Maahi`
+- If the first line is `let name;"` then the code should print `Good Morning, Maahi`
