@@ -1,4 +1,4 @@
-Guess the output of the following code.  Note that `b++` is the same as `b = b + 1`
+Guess the output of the following code.
 
 Don't forget to draw a diagram!
 
