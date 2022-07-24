@@ -1,5 +1,7 @@
- Print the location and temperature in Celsius or Fahrenheit based on the users preference.
- Prefix the temprature with an emoji as follows:
+# Weather Report
+
+Print the location and temperature in Celsius or Fahrenheit based on the users preference.
+Prefix the temprature with an emoji as follows:
  ```
 🥵 if temperature in Celsius is above 30
 😊 if temperature in Celsius is between 12 and 30
@@ -12,12 +14,15 @@ In ________ it is currently ______
 ```
 
 For example:
+
 ```
 In Vancouver it is currently 🥶 37.4°F 
 In New Delhi it is currently 🥵 35°C 
 In Sydney it is currently 😊 17°C 
 In Miami it is currently 🥵 104°F
 ```
+
+Starting code: 
 
 ```js
 let preferCelsius = false;
