@@ -16,17 +16,17 @@ For example,
 
 ```
 if taxable income is 10000, then the tax amount is 0
-if taxableIncome = 12600, then the tax amount is 20
-if taxableIncome = 51000, then the tax amount is 7900
-if taxableIncome = 180000, then the tax amount is 61000
+if taxableIncome is 12600, then the tax amount is 20
+if taxableIncome is 51000, then the tax amount is 7900
+if taxableIncome is 180000, then the tax amount is 61000
 ```
 
 Exercises:
 
 ```
 if taxable income is 20000, then the tax amount is 
-if taxableIncome = 50010, then the tax amount is 
-if taxableIncome = 155000, then the tax amount is 
+if taxableIncome is 50010, then the tax amount is 
+if taxableIncome is 155000, then the tax amount is 
 ```
 
 Here is the link for the video explaination for the above problem
