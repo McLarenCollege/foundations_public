@@ -39,7 +39,7 @@ Tip: Here's how to solve this problem:
  
 1. Create a variable called `emojiFace` and the use an if-else-if 
  expression to set the value to "🥵" or "😊" or "🥶" 
- (note that these emojis are regular characters like "A" or "c" and 
+ (note that these emojis are regular characters like "A" or "#" and 
  can be copy-pasted into your javascript code)
 
 2. Create another variable called `temperatureString` and use an if-else 
