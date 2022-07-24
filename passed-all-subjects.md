@@ -10,7 +10,7 @@ let physicsScore = 75;
 let chemistryScore = 88;
 let englishScore = 100;
 
-// write your boolean expression on the line below
+// write your boolean below
 let passedAllSubjects = ; 
 
 console.log(passedAllSubjects);
