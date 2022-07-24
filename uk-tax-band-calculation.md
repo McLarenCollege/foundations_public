@@ -10,7 +10,7 @@ over £150,000  | 45%
 
 Given the taxable income amount, write the tax amount.  
 
-Note that you do not need to write any javascript for this exercise - just perform the calculation using a calculator and pen and paper/
+**Note that you do not need to write any javascript for this exercise - just perform the calculation using a calculator and pen and paper**
 
 For example,
 
