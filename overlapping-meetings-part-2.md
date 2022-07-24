@@ -7,7 +7,7 @@ Write code to calculate whether the two meetings overlap.
 
 **Note that meeting 2 may start before meeting 1**
 
-Tip: If the end of one meeting is before the start of the other meeting, then the meetings do not overlap.
+Tip: If the end of one meeting is at or before the start of the other meeting, then the meetings do not overlap.
 
 
 ```js
