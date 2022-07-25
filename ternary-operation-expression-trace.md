@@ -1,4 +1,4 @@
-Write an expression trace for lines 1, 2 and 3:
+Write an expression trace for line 3:
 
 ```js
 let a = false === false;
