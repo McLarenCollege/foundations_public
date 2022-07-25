@@ -3,13 +3,12 @@ Given the passing score and a student's scores in maths, physics, chemistry and 
 write a boolean expression to determine if a student has passed all subjects.
 
 ```JS
-let passingScore = 75;
-
 let mathsScore = 81;
 let physicsScore = 75;
 let chemistryScore = 88;
 let englishScore = 100;
 
+let passingScore = 75;
 // write your boolean expression below
 let passedAllSubjects = ; 
 
