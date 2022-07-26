@@ -1,6 +1,7 @@
-Write a function called `formatTemperatureAsString` which takes two parameters
-The first parameter is the temperature in celsius
-The second parameter is whether to convert to fahrenheit
+Write a function called `formatTemperatureAsString` which takes two parameters:
+- The first parameter is the temperature in celsius
+- The second parameter is whether to convert to fahrenheit
+
 The function should return a formatted string like "37.4°F" or "17°C"
 
 Note: If the second parameter is true, the function should call 
