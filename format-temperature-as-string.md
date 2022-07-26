@@ -8,6 +8,12 @@ Note: If the second parameter is true, the function should call
 the convertToFahrenheit function you wrote earlier.
 
 ```js
+// Copy the convertToFahrenheit function you wrote earlier here:
+
+
+// Write your new formatTemperatureAsString function you wrote earlier here:
+
+
 let result = formatTemperatureAsString(12, false);
 console.log(result);  // should print 12°C
 result = formatTemperatureAsString(37, true);
