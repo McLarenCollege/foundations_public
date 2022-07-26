@@ -15,7 +15,11 @@ let userA = [
 ];
 ```
 Task1 : Write the code to increase age (22) by 1
+
 Task2 : Add new hobby "Swimming" to Hobby Array
+
 Task3 : Create a locations variable and point it to the last element of userA
+
 Task4 : Using the loctions variable, add a new location [50,70] to that array
+
 Task5 : For the first location, increment the longitude value from 60 to 61.
