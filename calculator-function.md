@@ -4,7 +4,7 @@ Your function will accept three parameters:
 - The first and second parameter should be numbers.
 - The third parameter should represent a sign indicating the operation to perform on these two numbers.
 
-Note: If the sign does not belong to the list above a message "unknown operator" must be returned.
+Note: If the sign does not belong to the list of operations above, a message "unknown operator" must be returned.
 
 // Example:
 ```js
