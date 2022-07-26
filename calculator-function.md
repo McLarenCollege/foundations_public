@@ -9,9 +9,9 @@ Note: If the sign does not belong to the list of operations above, a message "un
 // Example:
 ```js
 
-calculator(1,2,"+"); //=> result will be 3
-calculator(1,2,"&"); //=> result will be "unknown operator"
-calculator(1,2,"*"); //=> result will be 2
-calculator(4,2,"/"); //=> result will be 2
+calculator(1,2,"+"); //=> return value will be 3
+calculator(1,2,"&"); //=> return value will be "unknown operator"
+calculator(1,2,"*"); //=> return value will be 2
+calculator(4,2,"/"); //=> return value will be 2
 
 ```
