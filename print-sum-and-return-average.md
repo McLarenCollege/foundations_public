@@ -6,7 +6,11 @@ Create a function named 'printSumAndReturnAverage' that accepts two numbers as p
 function printSumAndReturnAverage(num1, num2){
 // write your code here
 }
+
 let average = printSumAndReturnAverage(5,10);
+console.log(average);
+
+average = printSumAndReturnAverage(8,20);
 console.log(average);
 ```
 ********************
