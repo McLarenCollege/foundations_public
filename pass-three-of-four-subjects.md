@@ -8,7 +8,7 @@ The value of `didPassCourse` will be true if the student passes atleast 3 of the
 **********************************
 ```js
 let historyScore = 65;
-let mathsScore = 82;
+let mathScore = 82;
 let englishScore = 90;
 let scienceScore = 71;
 let passingScore = 70;
