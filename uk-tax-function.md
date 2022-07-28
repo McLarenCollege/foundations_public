@@ -8,10 +8,11 @@ Taxable Income | Tax Rate
 £50,001 to £150,000  | 40%
 over £150,000  | 45%
 
-Given the taxable income amount, write the code the tax amount based 
-on the above table.  
+Given the taxable income amount, write a function called `calculateUkTax` 
+that returns the tax amount given the taxable income.  The calculation 
+should be based on the above table.  
 
-For example,
+Sample code,
 
 ```js
 // Write the calculateUkTax function here...
@@ -21,14 +22,14 @@ For example,
 let rahulTax = calculateUkTax(10000);
 console.log(rahulTax); // Should print 0
 
-let maxwellTax = calculateUkTax(12600);
-console.log(maxwellTax); // Should print 20
+let borisTax = calculateUkTax(12600);
+console.log(borisTax); // Should print 20
 
-let pamelaTax = calculateUkTax(51000);
-console.log(pamelaTax); // Should print 7900
+let gordonTax = calculateUkTax(51000);
+console.log(gordonTax); // Should print 7900
 
 let rishiTax = calculateUkTax(180000);
-console.log(rahulTax); // Should print 61000
+console.log(rishiTax); // Should print 61000
 
 ```
 
