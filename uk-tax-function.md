@@ -30,5 +30,5 @@ console.log(rishiTaxAmt); // Should print 61000
 
 ```
 
-Here is the link for the video explaination for the above problem
-https://mclarencollege.com/player.html?videoUrl=https%3A%2F%2Fmclaren-college-lecture-recordings.s3.us-east-2.amazonaws.com%2Fin-class_videos%2FJavascript_Foundations%2Fuk%2Btax%2Bband%2Bproblem.mp4
+[Here is the link for the video explaination for the above problem](https://mclarencollege.com/player.html?videoUrl=https%3A%2F%2Fmclaren-college-lecture-recordings.s3.us-east-2.amazonaws.com%2Fin-class_videos%2FJavascript_Foundations%2Fuk%2Btax%2Bband%2Bproblem.mp4)
+
