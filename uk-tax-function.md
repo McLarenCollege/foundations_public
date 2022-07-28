@@ -25,9 +25,6 @@ console.log(rahulTaxAmt); // Should print 0
 let borisTaxAmt = calculateUkTax(12600);
 console.log(borisTaxAmt); // Should print 20
 
-let gordonTaxAmt = calculateUkTax(51000);
-console.log(gordonTaxAmt); // Should print 7900
-
 let rishiTaxAmt = calculateUkTax(180000);
 console.log(rishiTaxAmt); // Should print 61000
 
