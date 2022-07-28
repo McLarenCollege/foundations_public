@@ -19,17 +19,17 @@ Sample code,
 ...
 ...
 
-let rahulTax = calculateUkTax(10000);
-console.log(rahulTax); // Should print 0
+let rahulTaxAmt = calculateUkTax(10000);
+console.log(rahulTaxAmt); // Should print 0
 
-let borisTax = calculateUkTax(12600);
-console.log(borisTax); // Should print 20
+let borisTaxAmt = calculateUkTax(12600);
+console.log(borisTaxAmt); // Should print 20
 
-let gordonTax = calculateUkTax(51000);
-console.log(gordonTax); // Should print 7900
+let gordonTaxAmt = calculateUkTax(51000);
+console.log(gordonTaxAmt); // Should print 7900
 
-let rishiTax = calculateUkTax(180000);
-console.log(rishiTax); // Should print 61000
+let rishiTaxAmt = calculateUkTax(180000);
+console.log(rishiTaxAmt); // Should print 61000
 
 ```
 
