@@ -19,5 +19,5 @@ if (age >= 65) {
 if (age > 12 && age < 65) {
     price = 100;
 }
-console.log(price);
+console.log("Ticket price is " + price);
 ```
