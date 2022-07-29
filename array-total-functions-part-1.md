@@ -7,6 +7,7 @@ Write a function called addTotal which takes an array of 4 numbers, adds the tot
 function addTotal(arr){
 // write your code here
 }
-let arr = [1, 2, 3, 4];
-console.log(addTotal(arr));
+
+console.log(addTotal([1, 2, 3, 4]));
+console.log(addTotal([5, 5, 5, 5]));
 ```
