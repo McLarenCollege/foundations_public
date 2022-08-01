@@ -1,5 +1,7 @@
 Write an expression Trace for the following code:
 
+CODE TEMPLATE
+
 ```js
 let nums = [1,2,3];
 nums[0] = nums[0] + 3;
