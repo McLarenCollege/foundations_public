@@ -20,3 +20,4 @@ should print
 **
 ***
 ```
+Hint: Start with an empty sting and a count of 0.  Then for each while iteration, increment count and append `*` to the string.
