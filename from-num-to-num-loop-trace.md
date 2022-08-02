@@ -3,7 +3,7 @@
 
 // Tip: Here is the first line of the loop trace:
 // 1. while 5 <= 10 (true), fromNum=5, toNum=10, sum=0
-
+```
 let fromNum = 5;
 let toNum = 10;
 
@@ -17,3 +17,4 @@ while (fromNum <= toNum){
 }
 
 console.log(sum);
+```
