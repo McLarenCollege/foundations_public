@@ -8,7 +8,7 @@ Tip: Here is the first line of the loop trace:
 ```
 
 
-```
+```js
 let fromNum = 5;
 let toNum = 10;
 
