@@ -1,3 +1,5 @@
+#### Note : Do not use a loop
+
 Given a Tic Tac Toe board of  size 3X3 create a function that prints all the elements of the Left to Right Diagonal.
 ```js
 function printLRDiagonal(board){
