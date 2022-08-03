@@ -7,10 +7,10 @@ function totalLength(arr){
 // write your code here
 }
 let myArray = [[1,2,3],[],[false,'vivek'],[]];
-totalLength(myArray);//5
+console.log(totalLength(myArray));//5
 myArray = [[1],[],[false,'vivek'],[5,6,7,8,9]];
-totalLength(myArray);//8
+console.log(totalLength(myArray));//8
 myArray = [];
-totalLength(myArray);//0
+console.log(totalLength(myArray));//0
 ```
 *******************
