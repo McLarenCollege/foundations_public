@@ -2,7 +2,6 @@ Given the number of rows, use a while loop to print the following pattern.
 
 ```js
 For rows = 2, the pattern should print like this:
-
 **
 *
 ```
