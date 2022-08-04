@@ -1,6 +1,6 @@
 Part 1:
 
-Write a function called addTotal which takes an array of 4 numbers, adds the total to the end of the array and returns the modified array.
+Write a function called addTotal which takes an array of 4 numbers, adds the total to the end of the array.
 
 
 ```js
