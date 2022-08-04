@@ -3,10 +3,15 @@ Write a function that takes a number as an input and print the following tree pa
 ***CODE TEMPLATE***
 ****************
 ```js
-function printChristmasTreePart1(numRows){
-// write your code here
+for (let row = 0; row < 3; row ++) {
+  let n = row - 3;
+  let stars = n * n;
+  let x = ">";
+  for (let i = 0; i < stars; i++) {
+      x = x + "*";
+  }
+  console.log(x);
 }
-printChristmasTreePart1(4);
 ```
 *******************
 
