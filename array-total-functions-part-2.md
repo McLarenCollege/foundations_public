@@ -1,6 +1,6 @@
 Part 2
 
-Write a function called 'addTotalsToGrid' which takes an array of 3 subarrays, where each sub-array has 4 numbers. The function should add the total to the end of each sub-array and returns the array. You should call the function `addTotal` in Part 1 three times.
+Write a function called 'addTotalsToGrid' which takes an array of 3 subarrays, where each sub-array has 4 numbers. The function should add the total to the end of each sub-array. You should call the function `addTotal` in Part 1 three times.
 
 Tip: To start, create a variable called 'sub' and point it to the first element in the `grid` array.  Then call the function addTotal you wrote earlier, passing `sub` as the paramter.   Then change `sub` to point to the second element in the `grid` array, etc.
 
