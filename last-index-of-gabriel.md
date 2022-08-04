@@ -7,11 +7,14 @@ If the name does not exist in the array return -1.
 function lastIndexOfGabriel(names){
 // write your code here
 }
-let names = ["John", "Gabriel", "Steve", "Sam", "Gabriel"];
-console.log(lastIndexOfGabriel(names)); // should return 4
-names = ["John", "Garry", "Steve", "Sam"];
-console.log(lastIndexOfGabriel(names)); // should return -1
-names = ["John", "Gabriel", "Steve", "Sam"];
-console.log(lastIndexOfGabriel(names)); // should return 1
+
+let garysFriends = ["John", "Gabriel", "Steve", "Sam", "Gabriel"];
+console.log(lastIndexOfGabriel(garysFriends)); // should return 4
+
+let kimsFriends = ["John", "Garry", "Steve", "Sam"];
+console.log(lastIndexOfGabriel(kimsFriends)); // should return -1
+
+let alexFriends = ["John", "Gabriel", "Steve", "Sam"];
+console.log(lastIndexOfGabriel(alexFriends)); // should return 1
 ```
 **********************
