@@ -11,10 +11,12 @@ function printPrime(a,b){
 
 printPrime(17, 30);
 ```
-//output should be
-/*
+The output should be
+
+```
 17
 19
 23
 29
-*/
+```
+
