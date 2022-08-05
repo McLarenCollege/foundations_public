@@ -1,4 +1,4 @@
-Write the expression trace for line number 12 and evaluate the output
+Write the expression trace for the last line and evaluate the output
 
 ```js
 let arr = [1, 3, 4, 2, 9, 8, 7, 6, 5, 10]
