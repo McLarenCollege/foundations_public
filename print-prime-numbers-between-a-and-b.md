@@ -8,6 +8,7 @@ Note: You have to reuse the checkPrime function created earlier
 function printPrime(a,b){
  // write your code here
 }
+
 printPrime(17, 30);
 ```
 //output should be
