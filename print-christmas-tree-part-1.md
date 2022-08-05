@@ -1,4 +1,4 @@
-Write a function that takes a number as an input and print the following tree pattern on the console.
+Modify the below code to print the following tree pattern on the console.
 
 ***CODE TEMPLATE***
 ****************
