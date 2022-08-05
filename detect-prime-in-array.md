@@ -3,6 +3,8 @@ If it detects a prime number it returns true. If there are no prime numbers in t
 
 Note: You have to reuse the Check Prime function we created earlier
 ```js
+// Copy your checkPrime function here
+
 function detectPrime(arr){
 }
 console.log(detectPrime([15,110,7,22,25]));// true
