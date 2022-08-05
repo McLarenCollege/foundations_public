@@ -3,6 +3,8 @@ If all the numbers are prime the function returns true, otherwise it returns fal
 
 Note: You have to reuse the Check Prime function we created earlier
 ```js
+// Copy your checkPrime function here
+
 function checkAllPrime(arr){
 }
 console.log(checkAllPrime([5,11,7,29,2]));// true
