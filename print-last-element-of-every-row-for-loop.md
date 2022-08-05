@@ -6,7 +6,7 @@ Note: Use a for loop
 function printLastElementOfRow(board){
 // write your code here
 }
-let board = [['X','O','X'],['X','O','O],['O','O','O']];
+let board = [['X','O','X'],['X','O','O'],['O','O','O']];
 printLastElementOfRow(board);
 board = [['X','O'],['X','O']];
 printLastElementOfRow(board);
