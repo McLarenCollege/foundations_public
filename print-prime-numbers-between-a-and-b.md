@@ -8,10 +8,7 @@ Note: You have to reuse the checkPrime function created earlier
 function printPrime(a,b){
  // write your code here
 }
-
-let a = 17;
-let b = 30;
-printPrime(a,b);
+printPrime(17, 30);
 ```
 //output should be
 /*
