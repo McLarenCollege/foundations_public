@@ -1,4 +1,4 @@
-Modify the below code to print the following tree pattern on the console.
+Modify the below code and create a function called `printChristmasTreePart1` which takes in a number `n` and prints the following tree pattern on the console.
 
 ***CODE TEMPLATE***
 ****************
@@ -15,7 +15,7 @@ for (let row = 0; row < 3; row ++) {
 ```
 *******************
 
-should produce the following output
+For n = 4 the function `printChristmasTreePart1(4)` should produce the following output
 
 ```js
    *
