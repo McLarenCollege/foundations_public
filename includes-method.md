@@ -1,4 +1,4 @@
-#### Includes Method
+## Includes Method
 
 Given an array
 ```js
