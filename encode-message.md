@@ -8,14 +8,13 @@ Please refer to the image to understand the encoding process.
 
 https://raw.githubusercontent.com/McLarenCollege/public_images/main/encode.jpg
 
-***CODE TEMPLATE***
-********************************
 ```js
 function encode(str){
-// write your code here
+  // write your code here
 }
-let msg = 'ICE CREAM';
-console.log(encode(msg)); // "I ECCAERM"
-console.log(encode("Today is Monday"));// "TaiMdoysoad  ny"
+
+console.log(encode('ICE CREAM')); // "I ECCAERM"
+
+console.log(encode('Today is Monday'));// "TaiMdoysoad  ny"
+
 ```
-*********************************
