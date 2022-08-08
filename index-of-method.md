@@ -1,3 +1,5 @@
+# Index Of Method
+
 **Starter Code**
 ```js
 let alph = [ 'y', 'n', 'x', 'e', 'i', 'n', 'x', 'z', 'n'];
