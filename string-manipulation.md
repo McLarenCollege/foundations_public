@@ -1,4 +1,6 @@
 
+## String Manipulation
+
 Create a function that utilizes inbuilt javascript methods  to produce the desired output.
 
 ```js
