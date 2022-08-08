@@ -1,3 +1,5 @@
+## Join Method
+
 Given an array of charcters
 ```js
 let chars = ['a', 'b', 'c']
