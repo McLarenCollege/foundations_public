@@ -1,4 +1,4 @@
-
+```js
 let bollyWoodMovies = ['Kai Po Che', 'Dangal', '3 Idiots', ['Ashoka', 'Swades']];
 let hollywood = 'bollywood';
 let movies = {
@@ -20,3 +20,4 @@ let movies = {
 let x = movies[hollywood][0][movies['hollywood'][5] + (movies.hollywood[2].rating[1] + 1)][19 % 6][0];
 // write the expression trace for the above line
 console.log(x);
+```
