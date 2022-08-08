@@ -1,4 +1,4 @@
-#### Part1
+#### Traverse Matrix Part1
 
 Given a matrix, a starting position (row and column) and an instruction, move left/right/up/down according to the instruction and return the value of the element at the position reached after making the move.
 
