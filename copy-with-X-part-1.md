@@ -9,6 +9,12 @@ function copyWithX(arr){
 
 // then return an array here
 }
+
+let nums = [2, 5, 6, 4, 8];
+let numsCopy = copyWithX(nums);
+console.log(nums);
+console.log(numsCopy);
+
 let bools = [true, false, false, false, true];
 let boolscopy = copyWithX(bools);
 console.log(bools);
