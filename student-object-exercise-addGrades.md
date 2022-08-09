@@ -1,5 +1,5 @@
 ## Exercise
-Write a function `addGrades` which takes in an array of student objects and adds 'grade' as the new property to each student object which stores the calculated grade.
+Write a function `addGrades` which takes in an array of student objects and adds 'grade' as the new property to each student object which stores the calculated grade (A, B, C, D or E).
 
 ```js
 let students = [
