@@ -1,4 +1,4 @@
-Write code to remove all the true values from the begining of a boolean array until you encounter a `false` and returns the modified array.
+Write code to remove all the `true` values from the begining of a boolean array until you encounter a `false` and returns the modified array.
  
 HINT : Consider using a while loop instead of a for loop
 
