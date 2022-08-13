@@ -1,4 +1,4 @@
-Give an multi-dimensional array, starting from the first row, traverse the array by skipping every next row and calculate the sum of traversed elements and return it.
+Given an multi-dimensional array, starting from the first row, traverse the array by skipping every next row and calculate the sum of traversed elements and return it.
 
 ```js
 function traverseArray(arr){
