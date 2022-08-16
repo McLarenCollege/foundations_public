@@ -16,7 +16,7 @@ Sum of the LR diagonals is 1 + 5 + 9 = 15
 [[-1,-2],
  [ 3, 4]]
 ```
-Sum of the two diagonals is -1 + 4 = 3
+Sum of the LRdiagonal is -1 + 4 = 3
 
 
 
