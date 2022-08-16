@@ -16,7 +16,7 @@ let myFish = ['angel', 'clown', 'drum', 'sturgeon'];
 
 
 // Part 4
-funciton removeAllOdd(arr){
+function removeAllOdd(arr){
 // write your code here
 }
 console.log(removeAllOdd([1,5,8,4,6,2,8,1,9,7,11]));
