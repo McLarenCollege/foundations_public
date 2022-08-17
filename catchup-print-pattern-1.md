@@ -6,7 +6,7 @@ function printPattern(rows){
 }
 printPattern(5);
 ```
-should print
+should print 5 rows like this :
 ```
 1111
 1110
