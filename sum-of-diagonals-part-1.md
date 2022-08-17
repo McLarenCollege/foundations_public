@@ -1,4 +1,4 @@
-# Sum of Diagonals of a Square Matrix
+# Sum of Left to Right Diagonal of a Square Matrix
 Write a function that accepts a two dimensional matrix and returns the sum of the diagonal elements from the top left to the bottom right.
 * The matrix will be a square matrix (ie. equal number of rows and columns)
 
