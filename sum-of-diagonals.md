@@ -47,12 +47,20 @@ Sum = 10
 function sumOfDiagonals(matrix){
 // write your code here
 }
+
 console.log(sumOfDiagonals([[1,2,3],
                             [4,5,6],
-                            [7,8,9]]));//30
+                            [7,8,9]])); // 30
+                            
+console.log(sumOfDiagonals([[1,-2, 1,-4],
+                            [5, 6, 7, 8],
+                            [1,-3, 2, 0],
+                            [3, 4, 5,-1]])); // 11 
+                            
 console.log(sumOfDiagonals([[-1,-2],
-                            [ 3, 4]]));//4
-console.log(sumOfDiagonals([[1]]));//1,
+                            [ 3, 4]])); // 4
+                            
+console.log(sumOfDiagonals([[1]])); // 2,
                             
 ```
 *******************************
