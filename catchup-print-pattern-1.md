@@ -14,3 +14,4 @@ should print 5 rows like this :
 1000
 0000
 ```
+HINT: You can use the [repeat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat) function to create a string with the same character repeated multiple times.
