@@ -60,7 +60,7 @@ console.log(sumOfDiagonals([[1,-2, 1,-4],
 console.log(sumOfDiagonals([[-1,-2],
                             [ 3, 4]])); // 4
                             
-console.log(sumOfDiagonals([[1]])); // 2,
+console.log(sumOfDiagonals([[1]])); // 2
                             
 ```
 *******************************
