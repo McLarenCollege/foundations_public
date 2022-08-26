@@ -18,7 +18,7 @@ console.log(maskify('ab cd efg'));
 
 
 ```
-should print '## #d efg'
+should print `## #d efg`
 
 ```
 console.log(maskify('abcdefghijklmnopqrstuvwxyz'));
