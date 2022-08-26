@@ -6,28 +6,39 @@ eg.
 ```
 console.log(maskify('4207 9992 8701 4443')) 
 ```
-<pre>
+
 should print `#### #### #### 4443`
-</pre>
+
+```
+console.log(maskify('ab cd efg'));
+
+
+
+
+
+
+```
+should print '## #d efg'
+
 ```
 console.log(maskify('abcdefghijklmnopqrstuvwxyz'));
 ```
-<pre>
+
 should print `######################wxyz`
-</pre>
+
 
 ```
 console.log(maskify('abcdefghijklmnopqrstuv       wxyz'));
 ```
-<pre>
+
 should print `######################       wxyz`
-</pre>
+
 ```
 console.log(maskify('abcdefghijklmnopqrstuv       w x  y   z'));
 ```
-<pre>
+
 should print `######################       w x  y   z`
-</pre>
+
 
 ```js
 function maskify(str){
