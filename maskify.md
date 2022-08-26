@@ -1,14 +1,17 @@
+# Maskify
+
 Usually when you buy something, you're asked whether your credit card number, phone number or answer to your most secret question is still correct. However, since someone could look over your shoulder, you don't want that shown on your screen. Instead, we mask it.
 
 Your task is to write a function `maskify`, which changes all but the last four characters of a given string into '#'. The space characters need to be igonered.
 
-eg.
+#### Example 1
 ```
 console.log(maskify('4207 9992 8701 4443')) 
 ```
 
 should print `#### #### #### 4443`
 
+#### Example 2
 ```
 console.log(maskify('ab cd efg'));
 
@@ -20,25 +23,28 @@ console.log(maskify('ab cd efg'));
 ```
 should print `## #d efg`
 
+#### Example 3
 ```
 console.log(maskify('abcdefghijklmnopqrstuvwxyz'));
 ```
 
 should print `######################wxyz`
 
-
+#### Example 4
 ```
 console.log(maskify('abcdefghijklmnopqrstuv       wxyz'));
 ```
 
 should print `######################       wxyz`
 
+#### Example 5
 ```
 console.log(maskify('abcdefghijklmnopqrstuv       w x  y   z'));
 ```
 
 should print `######################       w x  y   z`
 
+#### CODE TEMPLATE
 
 ```js
 function maskify(str){
