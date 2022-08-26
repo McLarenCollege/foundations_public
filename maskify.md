@@ -13,7 +13,7 @@ should print `#### #### #### 4443`
 
 #### Example 2
 ```
-console.log(maskify('ab cd efg'));
+console.log(maskify('0 848 943'));
 
 
 
@@ -21,7 +21,7 @@ console.log(maskify('ab cd efg'));
 
 
 ```
-should print `## #d efg`
+should print `# ##8 943`
 
 #### Example 3
 ```
