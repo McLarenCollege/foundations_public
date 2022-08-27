@@ -5,7 +5,7 @@ returns the **last n** tennis players that match the filter criteria.  It should
 
 - a list of tennis player details including name and whether the player is retired
 - a boolean representing whether to return only active players (ie. not retired) or both active and retired players
-- a number n representing the number of objects to return
+- a number n representing the number of players to return
 
 For example, given the following list
 
