@@ -20,7 +20,7 @@ let groupA = [
 ];
 ```
 
-Calling the function `filterTennisPlayers(groupA, true, 2)` 
+Calling the function `filterTennisPlayers(groupA, false, 2)` 
 should return this array:
 
 ```js
@@ -33,7 +33,36 @@ should return this array:
 Calling the function `filterTennisPlayers(groupA, false, 10)` 
 should return a shallow copy of the `groupA` array.
  
-
+```js
+function filterTennisPlayers(group, isRetired, age){
+// write your code here
+}
+let groupA = [
+  { name: 'Pete Sampras', isRetired: true, age: 51 },
+  { name: 'Zverev Alexander', isRetired: false, age: 25 },
+  { name: 'Naomi Osaka', isRetired: false, age: 24 },
+  { name: 'Martina Navratilova', isRetired: true, age: 65 },
+  { name: 'Rafael Nadal', isRetired: false, age: 36 },
+  { name: 'Martina Hingis', isRetired: true, age: 41 },
+];
+console.log(filterTennisPlayers(groupA, false, 2));
+/*
+should return 
+[
+  { name: 'Naomi Osaka', isRetired: false, age: 24 },
+  { name: 'Rafael Nadal', isRetired: false, age: 36 }
+]
+*/
+console.log(filterTennisPlayers(groupA, true, 3));
+/*
+should return 
+[
+ { name: 'Martina Hingis', isRetired: true, age: 41 },
+{ name: 'Martina Navratilova', isRetired: true, age: 65 },
+{ name: 'Pete Sampras', isRetired: true, age: 51 },
+]
+*/
+```
 
 
 
