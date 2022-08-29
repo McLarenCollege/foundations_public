@@ -33,8 +33,7 @@ should return this array:
 Calling the function `filterTennisPlayers(groupA, false, 10)` 
 should return a shallow copy of the `groupA` array.
  
- 
-**************  CODE TEMPLATE   *****************
+### CODE TEMPLATE
 ```js
 function filterTennisPlayers(group, isRetired, age){
 // write your code here
