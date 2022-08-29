@@ -20,7 +20,7 @@ let groupA = [
 ];
 ```
 
-Calling the function `filterTennisPlayers(groupA, false, 2)` 
+Calling the function `filterTennisPlayers(groupA, true, 2)` 
 should return this array:
 
 ```js
@@ -46,7 +46,7 @@ let groupA = [
   { name: 'Rafael Nadal', isRetired: false, age: 36 },
   { name: 'Martina Hingis', isRetired: true, age: 41 },
 ];
-console.log(filterTennisPlayers(groupA, false, 2));
+console.log(filterTennisPlayers(groupA, true, 2));
 /*
 should return 
 [
@@ -54,13 +54,13 @@ should return
   { name: 'Rafael Nadal', isRetired: false, age: 36 }
 ]
 */
-console.log(filterTennisPlayers(groupA, true, 3));
+console.log(filterTennisPlayers(groupA, false, 3));
 /*
 should return 
 [
  { name: 'Martina Hingis', isRetired: true, age: 41 },
-{ name: 'Martina Navratilova', isRetired: true, age: 65 },
-{ name: 'Pete Sampras', isRetired: true, age: 51 },
+ { name: 'Rafael Nadal', isRetired: false, age: 36 },
+ { name: 'Martina Navratilova', isRetired: true, age: 65 },
 ]
 */
 ```
