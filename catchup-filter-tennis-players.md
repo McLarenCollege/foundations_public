@@ -4,7 +4,9 @@ Write a function `filterTennisPlayers` which takes a list of objects representin
 returns the **last n** tennis players that match the filter criteria.  It should take three parameters:
 
 - a list of tennis player details including name and whether the player is retired
-- a boolean representing whether to return only active players (ie. not retired) or both active and retired players
+- a boolean `activeOnly` representing whether to return only active players (ie. not retired) or both active and retired players
+   - If `activeOnly` is `true`, we need to consider only non-retired players.
+   - If `activeOnly` is `false`, we should include both retired & non-retired players.
 - a number n representing the number of players to return
 
 For example, given the following list
@@ -35,7 +37,7 @@ should return a shallow copy of the `groupA` array.
  
 ### CODE TEMPLATE
 ```js
-function filterTennisPlayers(group, isRetired, age){
+function filterTennisPlayers(group, activeOnly, n){
 // write your code here
 }
 let groupA = [
