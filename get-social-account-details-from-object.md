@@ -4,17 +4,42 @@ Given the socialAccountDetails and selectedAccount, create a function that retur
 function getUserName(account, accountDetails){
 // write your code here
 }
-let selectedAccount = "gmail";
 
-let socialAccountDetails = {
+let selectedAccount1 = "gmail";
+let selectedAccount2 = "facebook";
+let selectedAccount3 = "gmail";
+
+let socialAccountDetails1 = {
   gmail: {
-    username: "vivek123",
+    username: "vivekgmail",
     password: "password123",
   },
   facebook: {
-    username: "vivek",
-    password: "password",
+    username: "vivekfacebook",
+    password: "passwordabc",
+  },
+  yahoo: {
+    username: "vivekyahoo",
+    password: "passwordxyz",
   },
 };
-console.log(getUserName(selectedAccount, socialAccountDetails));
+
+let socialAccountDetails2 = {
+  gmail: {
+    username: "abhishekgmail",
+    password: "password123",
+  },
+  facebook: {
+    username: "abhishekfacebook",
+    password: "passwordabc",
+  },
+  yahoo: {
+    username: "abhishekyahoo",
+    password: "passwordxyz",
+  },
+};
+
+console.log(getUserName(selectedAccount1, socialAccountDetails1));// "vivekgmail"
+console.log(getUserName(selectedAccount2, socialAccountDetails2));// "abhishekfacebook"
+console.log(getUserName(selectedAccount2, socialAccountDetails1));// "vivekyahoo"
 ```
