@@ -1,3 +1,5 @@
+# Get Social Account Details
+
 Given the socialAccountDetails and selectedAccount, create a function that returns the username for the selectedAccount.
 
 ```js
