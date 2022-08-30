@@ -27,7 +27,7 @@ Print the variable to make sure it holds the value.
 Task2 : Update the value of the `secondHobby` variable to `Singing` and print the object to verify the value has been updated.
 ```
 ```
-Task3 : Write the code to add a new property 'favouriteSubjects' to the object and add 'Maths', 'Physics' and 'Chemistry' as the values.
+Task3 : Write the code to add a new property 'favouriteSubjects' to the object and add 'Maths','Physics' and 'Chemistry' as the values.
 Print the object to verify the property has been added.
 ```
 ```
