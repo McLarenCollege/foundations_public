@@ -7,7 +7,7 @@ function getUserName(account, accountDetails){
 
 let selectedAccount1 = "gmail";
 let selectedAccount2 = "facebook";
-let selectedAccount3 = "gmail";
+let selectedAccount3 = "yahoo";
 
 let socialAccountDetails1 = {
   gmail: {
