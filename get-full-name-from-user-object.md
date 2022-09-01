@@ -1,3 +1,5 @@
+# Get Full Name from User Object
+
 Write a function that returns the 'full name' of the given user from the userObject.
 
 ```js
