@@ -1,47 +1,35 @@
 # Get Social Account Details
 
-Given the socialAccountDetails and selectedAccount, create a function that returns the username for the selectedAccount.
+Given the login details and website name, create a function that returns the username for that website.
 
 ```js
-function getUserName(account, accountDetails){
+function getUserName(website, userLoginDetails){
 // write your code here
 }
 
-let selectedAccount1 = "gmail";
-let selectedAccount2 = "facebook";
-let selectedAccount3 = "yahoo";
-
-let socialAccountDetails1 = {
+let loginDetails1 = {
   gmail: {
-    username: "vivekgmail",
+    username: "v.puppy",
     password: "password123",
   },
   facebook: {
-    username: "vivekfacebook",
+    username: "vivek456",
     password: "passwordabc",
-  },
-  yahoo: {
-    username: "vivekyahoo",
-    password: "passwordxyz",
-  },
+  }
 };
 
-let socialAccountDetails2 = {
+let loginDetails2 = {
   gmail: {
-    username: "abhishekgmail",
-    password: "password123",
+    username: "abhishek.kumar",
+    password: "monkeymonkey",
   },
   facebook: {
-    username: "abhishekfacebook",
-    password: "passwordabc",
-  },
-  yahoo: {
-    username: "abhishekyahoo",
-    password: "passwordxyz",
-  },
+    username: "shrivastava",
+    password: "letmein2",
+  }
 };
 
-console.log(getUserName(selectedAccount1, socialAccountDetails1));// "vivekgmail"
-console.log(getUserName(selectedAccount2, socialAccountDetails2));// "abhishekfacebook"
-console.log(getUserName(selectedAccount2, socialAccountDetails1));// "vivekyahoo"
+console.log(getUserName("gmail", loginDetails1));// "v.puppy"
+console.log(getUserName("facebook", loginDetails2));// "shrivastava"
+
 ```
