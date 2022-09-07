@@ -1,6 +1,7 @@
- Given a book with the structure below and the variable `country`, reduce the price of the book for that
-country by 40%.  If there is no record for that country then the book object should not be modified. 
- Check your code for different values of country. ('Australia','United States','Kenya')
+# Book Discount With Given Country
+Given a book with the structure below and the variable `country`, create a function that accepts the book object and a country name as a parameter,reduces the price of the book for that country by 40% and returns the book object.
+If there is no record for that country then the book object should not be modified. 
+
 ```js
 let book = {
     author: 'Daniel Kahneman',
@@ -15,5 +16,10 @@ let book = {
             'Canada' :{amount :19, currency :'CAD'}
         }
 };
-let country = 'India';
+function reducePrice(bookObj, country){
+// write your code here
+}
+console.log(JSON.stringify(reducePrice(book, "India")));
+console.log(JSON.stringify(reducePrice(book, "United States")));
+console.log(JSON.stringify(reducePrice(book, "Brazil")));
 ```
