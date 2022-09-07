@@ -1,3 +1,4 @@
+# Student Object Exercise Part 1
 ```js
 let students = [
 { name: 'Vivek', scores: [70, 90, 60, 91] },
