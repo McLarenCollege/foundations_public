@@ -24,4 +24,4 @@ Given the book structure above, if the book was published before 2017 and is not
  
 ### Part3
 
-Write the code to increase the Australian price by 20% by creating a reference to the `pricePerCountry` object.
+Write the code to increase the Australian price by 20% by creating a reference to the object which is a value for the 'Australia` property.
