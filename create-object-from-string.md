@@ -22,7 +22,9 @@ function checkRepetition(str){
 }
 console.log(checkRepetition("hello"));// true
 console.log(checkRepetition("zebra"));// false
+
 ```
+# Create object showing repetitions
 #### Part3
 Write a function that creates an Object from the given string with the characters as keys and the repetitions for the key as values for the key.
 
