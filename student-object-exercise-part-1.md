@@ -12,6 +12,7 @@ To calculate the grade obtained by the student look at below explanation.
 - Average score greater than or equal to 61 -> D grade
 - For other average scores -> E
 
+Write the code to perform these tasks :
 - Task1 : Draw the Object Diagram for the given Array of Objects.
 - Task2 : Write the code to print the name of the first student.
 - Task3 : Write the code to print the length of the scores array for the first student.
