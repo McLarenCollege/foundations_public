@@ -23,5 +23,4 @@ Given the book structure above, if the book was published before 2017 and is not
  Hint: Use an if statement.
  
 ### Part3
-
-Write the code to increase the Australian price by 20% by creating a reference to the object which is a value for the 'Australia` property.
+If the book was published before 2017 and is not a bestseller, reduce the Indian price by 10% and the United States price by 20% write the code to increase the Australian price by 20% by creating a reference to the object which is a value for the 'Australia` property.
