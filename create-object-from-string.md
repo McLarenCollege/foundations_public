@@ -11,17 +11,17 @@ function createObject(str){
 console.log(createObject("hello")); // {'h' :true, 'e' :true, 'l' :true, 'o' :true}
 console.log(createObject("aeroplane"));//{'a': true, 'e' :true,'r' :true, 'o' :true, 'p' :true, 'l' :true,'n' :true}
 ```
-
+# Check repetition in string
 #### Part2
 Write a function that checks if a key is repeated in the string by creating an Object for the given string. If a key is repeated 
 the function will return true. If no key is repeated it will return false.
 
 ```js
-function checkRepitition(str){
+function checkRepetition(str){
 // write your code here
 }
-console.log(checkRepitition("hello"));// true
-console.log(checkRepitition("zebra"));// false
+console.log(checkRepetition("hello"));// true
+console.log(checkRepetition("zebra"));// false
 ```
 #### Part3
 Write a function that creates an Object from the given string with the characters as keys and the repetitions for the key as values for the key.
