@@ -4,9 +4,6 @@ Write a function that creates an Object from the given string with the character
 
 The function should return the consturcted Object.
 
-***CODE TEMPLATE***
-**************************
-
 ```js
 function createObject(str){
 // write your code here
@@ -14,10 +11,11 @@ function createObject(str){
 console.log(createObject("hello")); // {'h' :true, 'e' :true, 'l' :true, 'o' :true}
 console.log(createObject("aeroplane"));//{'a': true, 'e' :true,'r' :true, 'o' :true, 'p' :true, 'l' :true,'n' :true}
 ```
-*************************
+
 #### Part2
 Write a function that checks if a key is repeated in the string by creating an Object for the given string. If a key is repeated 
-the function will return true. If no key is repeated it will return false
+the function will return true. If no key is repeated it will return false.
+
 ```js
 function checkRepitition(str){
 // write your code here
