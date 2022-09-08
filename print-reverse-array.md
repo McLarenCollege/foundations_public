@@ -6,4 +6,6 @@ function printReverse(list){
 }
 let nums = [4,8,9,6,3];
 printReverse(nums);
+
+printReverse(['a', 'b', 'c', 'd', 'e']);
 ```
