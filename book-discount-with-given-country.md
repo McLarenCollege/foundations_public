@@ -17,7 +17,8 @@ let book = {
         }
 };
 function reducePrice(bookObj, country){
-// write your code here
+    // write your code here
+    return bookObj;
 }
 console.log(JSON.stringify(reducePrice(book, "India")));
 console.log(JSON.stringify(reducePrice(book, "United States")));
