@@ -12,12 +12,14 @@ console.log(generateGreeting(12));// 'Good Morning'
 console.log(generateGreeting(16));// 'Good Afternoon'
 console.log(generateGreeting(20));// 'Good Night'
 ```
-Create a function 'createGreetingWithName` that accepts `hourOfDay` and `name` as input and generates a greeting message in the below format.
+Create a function `createGreetingWithName` that accepts `hourOfDay` and `name` as input and generates a greeting message in the below format.
 If the name is undefined just the greeting should be printed.
 The function should call the `generateGreeting` function created earlier to fetch the greeting.
+
 ```js
 function createGreetingWithName(hourOfDay, name){
-// write your code here
+// Write your code here
+// Make sure to call the generateGreeting function here
 }
 console.log(createGreetingWithName(6, 'Alex'));// 'Good Morning, Alex`
 console.log(createGreetingWithName(13, 'Michael'));// 'Good Afternoon, Michael`
