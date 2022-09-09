@@ -23,7 +23,7 @@ function createGreetingWithName(hourOfDay, name){
 // Write your code here
 // Make sure to call the generateGreeting function here
 }
-console.log(createGreetingWithName(6, 'Alex'));// 'Good Morning, Alex`
-console.log(createGreetingWithName(13, 'Michael'));// 'Good Afternoon, Michael`
-console.log(createGreetingWithName(19, undefined));// 'Good Night`
+console.log(createGreetingWithName(6, 'Alex'));// 'Good Morning, Alex!`
+console.log(createGreetingWithName(13, 'Michael'));// 'Good Afternoon, Michael!`
+console.log(createGreetingWithName(19, undefined));// 'Good Night!`
 ```
