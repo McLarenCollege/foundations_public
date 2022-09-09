@@ -23,3 +23,23 @@ console.log(createFullMessage('Yousuf', 6, 0));// 'Good Morning, Yousuf! You hav
 console.log(createFullMessage('Max', 20, 5));// 'Good Night, Yousuf! You have 5 scheduled events today.'
 console.log(createFullMessage(undefined, 15, 1));// 'Good Afternoon! You have 1 scheduled event today.'
 ```
+## CODE TEMPLATE
+***********************************************************
+```js
+// copy your generateGreeting & createGreetingWithName functions here
+
+function createEventMessage(numOfEvents){
+// write your code here
+}
+console.log(createEventMessage(0));// 'no scheduled events'
+console.log(createEventMessage(1));// '1 scheduled event'
+console.log(createEventMessage(2));// '2 scheduled events'
+
+function createFullMessage(name, hourOfDay, numOfEvents){
+// write your code here
+// Make sure to call the createGreetingWithName and createEventMessage function here
+}
+console.log(createFullMessage('Yousuf', 6, 0));// 'Good Morning, Yousuf! You have no scheduled events today.'
+console.log(createFullMessage('Max', 20, 5));// 'Good Night, Yousuf! You have 5 scheduled events today.'
+console.log(createFullMessage(undefined, 15, 1));// 'Good Afternoon! You have 1 scheduled event today.'
+```
