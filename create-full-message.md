@@ -19,7 +19,7 @@ function createFullMessage(name, hourOfDay, numOfEvents){
 // write your code here
 // Make sure to call the createGreetingWithName and createEventMessage function here
 }
-console.log(createFullMessage('Yousuf', 6, 0));// 'Good Morning Yousuf, you have no scheduled events today'
-console.log(createFullMessage('Max', 20, 5));// 'Good Night Yousuf, you have 5 scheduled events today'
-console.log(createFullMessage(undefined, 15, 1));// 'Good Afternoon, you have 1 scheduled event today'
+console.log(createFullMessage('Yousuf', 6, 0));// 'Good Morning, Yousuf! You have no scheduled events today.'
+console.log(createFullMessage('Max', 20, 5));// 'Good Night, Yousuf! You have 5 scheduled events today.'
+console.log(createFullMessage(undefined, 15, 1));// 'Good Afternoon! You have 1 scheduled event today.'
 ```
