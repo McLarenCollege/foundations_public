@@ -1,3 +1,5 @@
+# Format temperature as string
+
 Write a function called `formatTemperatureAsString` which takes two parameters:
 - The first parameter is the temperature in celsius
 - The second parameter is whether to convert to fahrenheit
