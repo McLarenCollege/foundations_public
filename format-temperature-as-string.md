@@ -19,7 +19,7 @@ console.log(result);  // should print 12°C
 result = formatTemperatureAsString(37, true);
 console.log(result);  // should print 98.6°F
 ```
-TIP: Here is an example of one functin calling another function
+TIP: Here is an example of one function calling another function
 ```js
 function avg(a, b, c) {
   let sum = a + b + c;
