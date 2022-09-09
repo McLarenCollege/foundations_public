@@ -19,3 +19,17 @@ console.log(result);  // should print 12°C
 result = formatTemperatureAsString(37, true);
 console.log(result);  // should print 98.6°F
 ```
+TIP: Here is an example of one functin calling another function
+```js
+function avg(a, b, c) {
+  let sum = a + b + c;
+  return sum / 3;
+}
+
+function printStudentResult(studentName, mathScore, physScore, chemScore) {
+  let msg = studentName + ' scored an average of ';
+  msg = msg + avg(mathScore, physScore, chemScore);
+  console.log(msg);
+}
+printStudentResult('Abhishek', 50, 40, 60);
+```
