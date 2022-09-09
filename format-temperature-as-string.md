@@ -11,7 +11,7 @@ the convertToFahrenheit function you wrote earlier.
 // Copy the convertToFahrenheit function you wrote earlier here:
 
 
-// Write your new formatTemperatureAsString function you wrote earlier here:
+// Create your new formatTemperatureAsString function  here:
 
 
 let result = formatTemperatureAsString(12, false);
