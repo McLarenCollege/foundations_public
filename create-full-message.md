@@ -13,8 +13,13 @@ console.log(createEventMessage(2));// '2 scheduled events'
 ```
 Create a function `createFullMessage` that accepts `name`, `hourOfDay` and `numOfEvents` as the parameters generates the appropriate message.
 Reuse the functions `generateGreeting`, `createGreetingWithName` & `createEventMessage` created earlier.
+Please find the gist link for the generateGreeting exercise [here](https://github.com/McLarenCollege/foundations_public/blob/main/generate-greeting.md).
+Please find the gist link for the createGreetingName exercise [here](https://github.com/McLarenCollege/foundations_public/blob/main/create-greeting-with-name.md).
 
 ```js
+// copy the generateGreeting function here
+// copy the createGreetingWithName function here
+// copy the createEventMessage function here
 function createFullMessage(name, hourOfDay, numOfEvents){
 // write your code here
 // Make sure to call the createGreetingWithName and createEventMessage function here
@@ -26,14 +31,9 @@ console.log(createFullMessage(undefined, 15, 1));// 'Good Afternoon! You have 1 
 ## CODE TEMPLATE
 ***********************************************************
 ```js
-// copy your generateGreeting & createGreetingWithName functions here
-
-function createEventMessage(numOfEvents){
-// write your code here
-}
-console.log(createEventMessage(0));// 'no scheduled events'
-console.log(createEventMessage(1));// '1 scheduled event'
-console.log(createEventMessage(2));// '2 scheduled events'
+// copy the generateGreeting function here
+// copy the createGreetingWithName function here
+// copy the createEventMessage function here
 
 function createFullMessage(name, hourOfDay, numOfEvents){
 // write your code here
