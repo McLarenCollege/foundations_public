@@ -1,3 +1,5 @@
+# Convert To Fahrenheit
+
 Write a function called convertToFahrenheit which takes a single 
 parameter which is the temperature in degrees Celsius.  The function
 should return the corresponding temperature in degrees Fahrenheit.
