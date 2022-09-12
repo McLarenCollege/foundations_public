@@ -1,9 +1,11 @@
+# Count trues before first false
+
 Given an array consisting of true and false values, write a function that returns 
 the number of true values present before the first false value using a while loop.
 If the array does not contain any false value return the number of true values.
 
 ```js
-function numberOfTrues(arr){
+function numberOfTrues(booleans){
 // write your code here
 }
 console.log(numberOfTrues([true, true, false, false, true, true]));// 2
