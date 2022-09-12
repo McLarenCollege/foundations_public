@@ -8,6 +8,7 @@ The function should call the `generateGreeting` function  to fetch the greeting.
 Please find the gist link for the generateGreeting function [here](https://github.com/McLarenCollege/foundations_public/blob/main/generate-greeting.md)
 
 ```js
+// copy the generateGreeting function here
 function createGreetingWithName(hourOfDay, name){
 // Write your code here
 // Make sure to call the generateGreeting function here
