@@ -7,7 +7,7 @@ function square(num){
 let result = square(5);
 console.log("The square is " + result);
 ```
-Write a function named averageOf3 that takes three numbers as parameters and returns the average of the three numbers.
+Write a function named `averageOf3` that takes three numbers as parameters and returns the average of the three numbers.
 
 Calculate the average of 30, 25, 35.
 
