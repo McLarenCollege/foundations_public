@@ -9,11 +9,6 @@ console.log("The square is " + result);
 ```
 Write a function named `averageOf3` that takes three numbers as parameters and returns the average of the three numbers.
 
-Calculate the average of 30, 25, 35.
-
-Now calculate the average of -5, 10, -26
-
-Starting code:
 ```js
 // write your function here
 
