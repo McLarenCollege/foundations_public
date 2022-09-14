@@ -1,3 +1,5 @@
+# Function Trace Full Name
+
 Write a function trace (not expression trace) for the following code
 
 ```js
