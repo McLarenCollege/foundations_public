@@ -1,8 +1,8 @@
 # From Num to num Sum Of Even Numbers
 
-Given variables fromNum and toNum, calculate the sum of all the even numbers from fromNum to toNum using  a `while loop`.
+Given variables `fromNum` and `toNum`, calculate the sum of all the even numbers from `fromNum` to `toNum` using  a `while loop`.
 
-Value of fromNum will be always be less than or equal to toNum.
+Value of `fromNum` will be always be less than or equal to `toNum`.
 
 Starting code:
 
