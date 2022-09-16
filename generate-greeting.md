@@ -1,8 +1,8 @@
 Create a function generateGreeting that accepts hourOfDay as input and returns a greeting message based on the below rules:
 
-If the hourOfDay is greater than 0 and less than or equal to 12, the returned greeting should be Good Morning.
-If the hourOfDay is greater than 12 and less than or equal to 18, the returned greeting should be `Good Afternoon.
-If the hourOfDay is greater than 18 and less than or equal to 24, the returned greeting should be Good Night.
+- If the hourOfDay is less than or equal to 12, the returned greeting should be 'Good Morning'.
+- If the hourOfDay is greater than 12 and less than or equal to 18, the returned greeting should be 'Good Afternoon'.
+- If the hourOfDay is greater than 18, the returned greeting should be 'Good Night'.
 
 ```js
 function generateGreeting(hourOfDay){
