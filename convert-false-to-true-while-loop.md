@@ -1,6 +1,7 @@
 # Convert False to True
 
 Given an array of booleans update the first chunk of false values to true until you reach a true value or undefined.
+
 The function should return the modified array
 
 
