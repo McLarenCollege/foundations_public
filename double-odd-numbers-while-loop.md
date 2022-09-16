@@ -1,3 +1,5 @@
+# Double Odd Numbers
+
 Create a while loop that multiplies all the odd numbers that occur in an array by 2 and print the modified array.
 
 ***CODE TEMPLATE***
