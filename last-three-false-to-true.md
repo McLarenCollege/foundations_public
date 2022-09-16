@@ -1,5 +1,7 @@
 Create a function that accepts a boolean array and converts the last 3 false values to true.
+
 If there are less than 3 false values in the array it converts all of them to true.
+
 The function should return the updated array.
 
 ```js
