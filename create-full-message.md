@@ -19,8 +19,7 @@ Please find the gist link for the generateGreeting exercise [here](https://githu
 Please find the gist link for the createGreetingName exercise [here](https://github.com/McLarenCollege/foundations_public/blob/main/create-greeting-with-name.md).
 
 
-## CODE TEMPLATE
-***********************************************************
+
 ```js
 // copy the generateGreeting function here
 // copy the createGreetingWithName function here
