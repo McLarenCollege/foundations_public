@@ -1,29 +1,24 @@
-Create a function `createEventMessage` that accepts `numOfEvents` as a parameter and returns a message based on the below rules :
- - If `numOfEvents` is 0, the function should return the string `no scheduled events`.
- - If `numOfEvents` is 1, the function should return the string `1 scheduled event`.
- - If `numOfEvents` is 2, the function should return the string `2 scheduled events`.
+# Create Full Message
 
-```js
-function createEventMessage(numOfEvents){
-// write your code here
-}
-console.log(createEventMessage(0));// 'no scheduled events'
-console.log(createEventMessage(1));// '1 scheduled event'
-console.log(createEventMessage(2));// '2 scheduled events'
-```
-Create a function `createFullMessage` that accepts `name`, `hourOfDay` and `numOfEvents` as the parameters generates the appropriate message.
-Reuse the functions `generateGreeting`, `createGreetingWithName` & `createEventMessage` created earlier.
+Create a function called `createFullMessage` that accepts `name`, `hourOfDay` and `numOfEvents` as the parameters and returns the appropriate message as shown in the code below.
 
-Please find the gist link for the generateGreeting exercise [here](https://github.com/McLarenCollege/foundations_public/blob/main/generate-greeting.md).
+Your code should reuse the following functions `generateGreeting`, `createGreetingWithName` & `createEventMessage` from these exercises.
 
-Please find the gist link for the createGreetingName exercise [here](https://github.com/McLarenCollege/foundations_public/blob/main/create-greeting-with-name.md).
+- [createEventMessage](https://github.com/McLarenCollege/foundations_public/blob/main/create-event-message.md).
+
+- [generateGreeting](https://github.com/McLarenCollege/foundations_public/blob/main/generate-greeting.md).
+
+- [createGreetingWithName](https://github.com/McLarenCollege/foundations_public/blob/main/create-greeting-with-name.md).
 
 
 
 ```js
 // copy the generateGreeting function here
+
 // copy the createGreetingWithName function here
+
 // copy the createEventMessage function here
+
 function createFullMessage(name, hourOfDay, numOfEvents){
 // write your code here
 // Make sure to call the createGreetingWithName and createEventMessage function here
