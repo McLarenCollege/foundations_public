@@ -19,26 +19,12 @@ Please find the gist link for the generateGreeting exercise [here](https://githu
 Please find the gist link for the createGreetingName exercise [here](https://github.com/McLarenCollege/foundations_public/blob/main/create-greeting-with-name.md).
 
 
-```js
-// copy the generateGreeting function here
-// copy the createGreetingWithName function here
-// copy the createEventMessage function here
-function createFullMessage(name, hourOfDay, numOfEvents){
-// write your code here
-// Make sure to call the createGreetingWithName and createEventMessage function here
-}
-console.log(createFullMessage('Yousuf', 6, 0));// 'Good Morning, Yousuf! You have no scheduled events today.'
-console.log(createFullMessage('Max', 20, 5));// 'Good Night, Yousuf! You have 5 scheduled events today.'
-console.log(createFullMessage(undefined, 15, 1));// 'Good Afternoon! You have 1 scheduled event today.'
-```
-
 ## CODE TEMPLATE
 ***********************************************************
 ```js
 // copy the generateGreeting function here
 // copy the createGreetingWithName function here
 // copy the createEventMessage function here
-
 function createFullMessage(name, hourOfDay, numOfEvents){
 // write your code here
 // Make sure to call the createGreetingWithName and createEventMessage function here
@@ -47,3 +33,4 @@ console.log(createFullMessage('Yousuf', 6, 0));// 'Good Morning, Yousuf! You hav
 console.log(createFullMessage('Max', 20, 5));// 'Good Night, Yousuf! You have 5 scheduled events today.'
 console.log(createFullMessage(undefined, 15, 1));// 'Good Afternoon! You have 1 scheduled event today.'
 ```
+
