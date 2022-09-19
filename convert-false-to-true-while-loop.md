@@ -1,8 +1,6 @@
 # Convert False to True
 
-Given an array of booleans update the first chunk of false values to true until you reach a true value or undefined.
-
-The function should return the modified array
+Given an array of booleans change any false values to true that occur before the first true value.
 
 
 ```js
@@ -11,13 +9,15 @@ function falseToTrue(booleans){
 }
 
 let bools1 = [false, false, false, true, false, false, true];
-console.log(falseToTrue(bools1)); // should print [true, true, true, true, false, false, true]
+falseToTrue(bools1);
+console.log(bools1); // should print [true, true, true, true, false, false, true]
 
 let bools2 = [false, false, false];
-console.log(falseToTrue(bools2));// should print [true, true, true]
+falseToTrue(bools2);
+console.log(bools2);// should print [true, true, true]
 
-let bools3 = [true, false, false, true, false];
-console.log(falseToTrue(bools3));//[true, true, true, true, false]
-
-
+let bools3 = [true, false, true];
+falseToTrue(bools3);
+console.log(bools3);// should print [true, false, true]
 ```
+
