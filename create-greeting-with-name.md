@@ -1,11 +1,13 @@
 
+# Create Greeting With Name
+
 Create a function `createGreetingWithName` that accepts `hourOfDay` and `name` as input and generates a greeting message in the below format.
 
 If the name is undefined just the greeting should be printed.
 
-The function should call the `generateGreeting` function  to fetch the greeting.
+Your code should reuse the `generateGreeting` function as described in this exercise.
 
-Please find the gist link for the generateGreeting function [here](https://github.com/McLarenCollege/foundations_public/blob/main/generate-greeting.md)
+- [generateGreeting](https://github.com/McLarenCollege/foundations_public/blob/main/generate-greeting.md)
 
 ```js
 // copy the generateGreeting function here
@@ -17,3 +19,4 @@ console.log(createGreetingWithName(6, 'Alex'));// 'Good Morning, Alex!`
 console.log(createGreetingWithName(13, 'Michael'));// 'Good Afternoon, Michael!`
 console.log(createGreetingWithName(19, undefined));// 'Good Night!`
 ```
+Note: Please notice the exclaimation symbol (!) at the end of the greeting.
