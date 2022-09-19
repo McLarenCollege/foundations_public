@@ -16,5 +16,8 @@ console.log(falseToTrue(bools1)); // should print [true, true, true, true, false
 let bools2 = [false, false, false];
 console.log(falseToTrue(bools2));// should print [true, true, true]
 
+let bools3 = [true, false, false, true, false];
+console.log(falseToTrue(bools3));//[true, true, true, true, false]
+
 
 ```
