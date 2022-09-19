@@ -8,7 +8,7 @@ The function should return the updated array.
 function lastThreeFalses(bools){
 // write your code here
 }
-let booleans = [true, false, true, false, true, false, false, false, true, false]);
+let booleans = [true, false, true, false, true, false, false, false, true, false];
 console.log(lastThreeFalses(booleans));// [true, false, true, false, true, false, true, true, true, true]
 booleans = [false,false,true];
 console.log(lastThreeFalses(booleans));// [true, true, true]
