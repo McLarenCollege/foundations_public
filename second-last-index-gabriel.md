@@ -1,5 +1,6 @@
-Given an array of names return the second last index of  the name 'Gabriel'  in the array.
-If the name 'Gabriel' does not exist atleast twice, return -1.
+Given an array of names create a function `secondLastIndex` that returns the second last index of  the name `Gabriel`  in the array.
+
+If the name `Gabriel` does not exist atleast twice, return -1.
 
 
 ```js
