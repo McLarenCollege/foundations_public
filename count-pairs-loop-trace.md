@@ -1,6 +1,9 @@
 # Count Pairs
 
-Guess the output of the following code by writing a loop trace
+Guess the output of the following code by writing a loop trace.
+
+Note: Do not include the variable `nums` in the loop trace since its value never changes.
+
 
 ```js
 function countPairs(nums) {
