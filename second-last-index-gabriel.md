@@ -4,7 +4,7 @@ If the name `Gabriel` does not exist atleast twice, return -1.
 
 
 ```js
-function secondLastIndex(names){
+function secondLastIndex(namesList){
 // write your code here
 }
 
