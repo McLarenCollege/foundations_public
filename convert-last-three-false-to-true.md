@@ -10,7 +10,10 @@ function convertLastThree(bools){
 // write your code here
 }
 let booleans = [true, false, true, false, true, false, false, false, true, false];
+
 console.log(convertLastThree(booleans));// [true, false, true, false, true, false, true, true, true, true]
+
 booleans = [false,false,true];
+
 console.log(convertLastThree(booleans));// [true, true, true]
 ```
