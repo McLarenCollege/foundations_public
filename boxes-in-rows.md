@@ -1,3 +1,5 @@
+# Boxes In Rows
+
 There is an array of boxes where each element of an array represents the number of boxes stacked on top of each other in that column.
 For eg. `boxes=[4,1,2,3,2,1]`.
 
