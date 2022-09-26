@@ -28,5 +28,6 @@ So the boxes look like this:
  }
  console.log(boxesInRows([4, 1, 2, 3, 2, 1]));// returns [6, 4, 2, 1]
  console.log(boxesInRows([4, 0, 3, 1, 2]));// returns [4, 3, 2, 1]
+ console.log(boxesInRows([0, 0, 3]));// returns [1, 1, 1]
  ```
  **************************
