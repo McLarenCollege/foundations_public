@@ -37,7 +37,7 @@ should return a shallow copy of the `groupA` array.
  
 ### CODE TEMPLATE
 ```js
-function filterTennisPlayers(group, activeOnly, n){
+function filterTennisPlayers(players, activeOnly, n){
 // write your code here
 }
 let groupA = [
