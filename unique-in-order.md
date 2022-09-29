@@ -1,6 +1,6 @@
 # Unique In Order
 
-Implement the function uniqueInOrder which takes as argument a string or array and 
+Implement the function `uniqueInOrder` which takes as argument a string or array and 
 returns an array of items with the repeated elements removed.
 
 For example:
