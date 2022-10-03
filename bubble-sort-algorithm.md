@@ -14,6 +14,7 @@ should return `[-5,-1,0,5,8]`
 function bubbleSort(arr){
 // write your code here
 }
+console.log(bubbleSort([4, 3, 5, 9, 7, 2, 6]));
 console.log(bubbleSort([1,5,3,0])); // should return `[0,1,3,5]`
 console.log(bubbleSort([-1,0,-5,5,8])); // should return `[-5,-1,0,5,8]`
 
