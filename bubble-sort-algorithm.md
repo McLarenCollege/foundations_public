@@ -11,7 +11,7 @@ should return `[-5,-1,0,5,8]`
 
 
 ```js
-function bubbleSort(arr){
+function bubbleSort(nums){
 // write your code here
 }
 console.log(bubbleSort([4, 3, 5, 9, 7, 2, 6]));
