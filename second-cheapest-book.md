@@ -13,10 +13,16 @@ console.log(findSecondCheapest([
     {title:'Green Eggs and Ham', price:52.50},
     {title:'Thinking Fast and Slow', price:28.80},
     {title:'War and Peace', price: 5.20}
-]));
+])); // {title:'The Cat In The Hat', price:16.20}
+
+console.log(findSecondCheapest([
+    {title:'Fox In Socks', price:32.20}
+])); //  {title:'Fox In Socks', price:32.20}
+
+console.log(findSecondCheapest([])); // undefined
 ```
 
-should return the  `{title:'The Cat In The Hat', price:16.20}`, in the input list.
+
 
 Note:
 - If the array is empty, return `undefined`
