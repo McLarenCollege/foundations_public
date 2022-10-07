@@ -10,9 +10,9 @@ function findSecondCheapest(books){
 console.log(findSecondCheapest([
     {title:'Fox In Socks', price:32.20},
     {title:'The Cat In The Hat', price:16.20},
-    {title:'Green Eggs and Ham', price:52.50},
+    {title:'Green Eggs and Ham', price:5.20},
     {title:'Thinking Fast and Slow', price:28.80},
-    {title:'War and Peace', price: 5.20}
+    {title:'War and Peace', price: 52.50}
 ])); // {title:'The Cat In The Hat', price:16.20}
 
 console.log(findSecondCheapest([
