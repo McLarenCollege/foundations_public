@@ -49,8 +49,5 @@ BREAK
 function bubbleSort(nums){
 // write your code here
 }
-console.log(bubbleSort([4, 3, 5, 9, 7, 2, 6]));
-console.log(bubbleSort([1,5,3,0]));
-
 ```
 Note: You must use `break` keyword to break out of the loop if there is no swap happening in current iteration.
