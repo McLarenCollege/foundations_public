@@ -7,9 +7,9 @@ For e.g.
 
 ```js
 zipN([
-    [1,5,3,0],
+    [0, 1, 3, 5],
     [],
-    [4, 3, 5, 9, 7, 2, 6]
+    [2, 3, 4, 5, 6, 7, 9]
     ])
 ```
 should return `[ 0, 1, 2, 3, 3, 4, 5, 5, 6, 7, 9]` and should console log the following:
@@ -18,9 +18,9 @@ should return `[ 0, 1, 2, 3, 3, 4, 5, 5, 6, 7, 9]` and should console log the fo
 #### Example 2
 ```js
 zipN([
-    [2,7,3,5],
+    [2, 3, 7, 5],
     [1],
-    [0,1,301,3]
+    [0, 1, 3, 301]
     ])
 ```
 should return `[ 0, 1, 1, 2, 3, 3, 5, 7, 301 ]`
