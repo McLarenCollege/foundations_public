@@ -48,7 +48,7 @@ let groupA = [
   { name: 'Rafael Nadal', isRetired: false, age: 36 },
   { name: 'Martina Hingis', isRetired: true, age: 41 },
 ];
-console.log(filterTennisPlayers(groupA, true, 2));
+console.log(JSON.stringify(filterTennisPlayers(groupA, true, 2)));
 /*
 should return 
 [
@@ -56,7 +56,7 @@ should return
   { name: 'Rafael Nadal', isRetired: false, age: 36 }
 ]
 */
-console.log(filterTennisPlayers(groupA, false, 3));
+console.log(JSON.stringify(filterTennisPlayers(groupA, false, 3)));
 /*
 should return 
 [
