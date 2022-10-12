@@ -1,4 +1,4 @@
-Time Allowed : 45 minutes
+# Possible Knight Moves
 
 Given a square chessboard and a knight occupying a cell return the number of the possible positions it can take after making a move.
 
