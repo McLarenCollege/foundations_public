@@ -6,27 +6,29 @@ The letter 'K' denotes the current knight position.
 
 For eg.
 ```js
-chessBoard=[[' ',' ',' ',' '],
+let chessBoard=[[' ',' ',' ',' '],
             [' ',' ',' ',' '],
             [' ','K',' ',' '],
             [' ',' ',' ',' ']];
-chessBoard2=[[' ',' ',' ',' ',' '],
+let chessBoard2=[[' ',' ',' ',' ',' '],
              [' ',' ',' ',' ',' '],
              [' ','K',' ',' ',' '],
              [' ',' ',' ',' ',' '],
              [' ',' ',' ',' ',' ']];
-chessBoard3=[['K',' ',' ',' ',' ',' '],
+let chessBoard3=[['K',' ',' ',' ',' ',' '],
              [' ',' ',' ',' ',' ',' '],
              [' ',' ',' ',' ',' ',' '],
              [' ',' ',' ',' ',' ',' '],
              [' ',' ',' ',' ',' ',' '],
              [' ',' ',' ',' ',' ',' ']];
+             
  function possibleKnightMoves(chessBoard){
  //write your code here
  }
  console.log(possibleKnightMoves(chessBoard));//returns 4 becuase possible moves are[[0,0],[0,2],[1,3],[3,3]];
  console.log(possibleKnightMoves(chessBoard2));// returns 6 because possible moves are[[0,0],[0,2],[1,3],[3,3],[4,0],[4,2]];
  console.log(possibleKnightMoves(chessBoard3));// returns 2 because possible moves are [[2,1],[1,2]]
+ 
 ```
 Please refer the image to understand the possible moves of a knight.
 
