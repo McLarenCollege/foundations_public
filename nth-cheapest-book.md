@@ -26,7 +26,7 @@ console.log(findNthCheapest([])); // undefined
 
 
 Note:
-- If the array is empty, return `undefined`
 - All books will have a different price
 - Do not sort the list
 - The return value must point to an object in the original list, not a copy of that object
+- If n is greater than the number of books, return `undefined`
