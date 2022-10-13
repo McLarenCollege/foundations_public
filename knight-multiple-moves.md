@@ -6,7 +6,7 @@ If a chess is placed in the corner of the board, write a function called `square
 
 For example, starting from the corner of the board, then it can cover 3 squares as shown her:
 
-<img src="https://user-images.githubusercontent.com/53505683/195483253-deae23d7-18fa-40dd-9274-82f64596f1f5.png" width=300 />
+<img src="https://user-images.githubusercontent.com/53505683/195483253-deae23d7-18fa-40dd-9274-82f64596f1f5.png" width=200 />
 
 ```js
 function squaresCoveredInMoves(moves){
