@@ -12,6 +12,8 @@ For example, starting from the corner of the board, then it can cover 3 squares 
 function squaresCoveredInMoves(moves){
   //Write your code here
 }
+console.log(squaresCovered(1)); //3
+console.log(squaresCovered(2));//12
 ```
 
 Note: The starting cell of the knight is always at the corner of the board.
