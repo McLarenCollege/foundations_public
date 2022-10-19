@@ -22,3 +22,4 @@ else{
 ```
 
 Write code to achieve the same output  WITHOUT using an else block.
+Note: You can use just a single if statement
