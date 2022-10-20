@@ -1,4 +1,4 @@
-Create an expression trace for the second and third line and evaluate the output.
+Create an expression trace for the third line and evaluate the output.
 
 ```js
 let a = [{ foo: 'x', bar: 'y', k: 0 }, 'oo', [0, 2]]
