@@ -15,10 +15,7 @@ function countFinalPositions(numMoves) {
 
 console.log(countFinalPositions(1));// 2
 console.log(countFinalPositions(2));// 10
-console.log(countFinalPositions(3));// 22
-console.log(countFinalPositions(4));// 31
-console.log(countFinalPositions(5));// 32
-console.log(countFinalPositions(6));// 32
+
 ```
 
 Note: The starting cell of the knight is always at the corner of the board.
