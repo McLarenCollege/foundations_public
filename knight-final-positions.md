@@ -14,7 +14,7 @@ function countFinalPositions(numMoves) {
 }
 
 console.log(countFinalPositions(1));// 2
-console.log(countFinalPositions(2));// 10
+
 
 ```
 
