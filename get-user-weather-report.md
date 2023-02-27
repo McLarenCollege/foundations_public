@@ -38,6 +38,6 @@ function getUserWeatherReport(user, weatherObj){
 // write your code here
 }
 console.log(getUserWeatherReport(user1, weather)); // should print 'Hello Paul it is currently 37 degrees Celcius in London'
-console.log(getUserWeatherReport(user2, weather)); // should print 'Hello Mahesh it is currently 33 degrees Celcius in New Delhi'
+console.log(getUserWeatherReport(user2, weather)); // should print 'Hello Mahesh it is currently 32 degrees Celcius in New Delhi'
 ```
 
