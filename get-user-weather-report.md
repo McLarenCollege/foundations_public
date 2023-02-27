@@ -1,4 +1,9 @@
+
+Create a function called `getUserWeatherReport` that accepts two parameters the user object and the weather object 
+and returns a message in the following format
+
 ```js
+
 let weather = {
     London: {
         temp: 37,
@@ -29,15 +34,13 @@ let user2 = {
         longitude: 40,
     }
 };
-```
-Create a function called `getUserWeatherReport` that accepts two parameters the user object and the weather object 
-and returns a message in the following format
 
-```js
 function getUserWeatherReport(user, weatherObj){
 // write your code here
 }
+
 console.log(getUserWeatherReport(user1, weather)); // should print 'Hello Paul it is currently 37 degrees Celcius in London'
 console.log(getUserWeatherReport(user2, weather)); // should print 'Hello Mahesh it is currently 32 degrees Celcius in New Delhi'
+
 ```
 
