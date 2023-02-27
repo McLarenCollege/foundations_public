@@ -30,14 +30,14 @@ let user2 = {
     }
 };
 ```
-Create a function called `getWeatherDetails` that accepts two parameters the user object and the weather object 
+Create a function called `getUserWeatherReport` that accepts two parameters the user object and the weather object 
 and returns a message in the following format
 
 ```js
-function getWeatherDetails(user, weather){
+function getUserWeatherReport(user, weatherObj){
 // write your code here
 }
-console.log(getWeatherDetails(user1, weather)); // should print 'Hello Paul it is currently 12 degrees Celcius in New York'
-console.log(getWeatherDetails(user2, weather)); // should print 'Hello Mahesh it is currently 32 degrees Celcius in Patna'
+console.log(getUserWeatherReport(user1, weather)); // should print 'Hello Paul it is currently 12 degrees Celcius in New York'
+console.log(getUserWeatherReport(user2, weather)); // should print 'Hello Mahesh it is currently 32 degrees Celcius in Patna'
 ```
 
