@@ -4,14 +4,6 @@ let weather = {
         temp: 37,
         humidity: 44,
     },
-    Patna: {
-        temp: 32,
-        humidity: 80,
-    },
-    'New York': {
-        temp: 12,
-        humidity: 40,
-    },
     'New Delhi': {
         temp: 33,
         humidity: 85,
