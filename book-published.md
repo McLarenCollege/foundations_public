@@ -1,6 +1,6 @@
 # book-published
 
-Given an author name and a year create a function that returns true/false if the actor had a book published during that year.
+Given an author name and a year create a function that returns true if the actor had a book published during that year.
 
 ```js
 let author = {
