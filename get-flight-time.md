@@ -60,5 +60,5 @@ console.log(flightTimeMessage(aviationInfo, 'LAX', 'SYD'));
 
 // Should print 'Flight time from Dubai Airport to New Delhi Indira
 // Gandhi Airport is 3 hours and 10 minutes'
-console.log(flightTimeMessage(aviationInfo, 'DUB', 'DEL'));
+console.log(flightTimeMessage(aviationInfo, 'DXB', 'DEL'));
 ```
