@@ -21,11 +21,11 @@ let author = {
   ],
 }
 
-function bookPublished(name, year) {
+function bookPublished(authorObj, name, year) {
   // write your code here
 }
-console.log(bookPublished('Leo Tolstoy', 1911)); // true
-console.log(bookPublished('Arthur Conan Doyle', 1891)); // false
-console.log(bookPublished('Mark Twain', 1892)); // false
+console.log(bookPublished(author, 'Leo Tolstoy', 1911)); // true
+console.log(bookPublished(author, 'Arthur Conan Doyle', 1891)); // false
+console.log(bookPublished(author, 'Mark Twain', 1892)); // true
 
 ```
