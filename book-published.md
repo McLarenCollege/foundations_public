@@ -3,7 +3,7 @@
 Given an author name and a year create a function that returns true if the actor had a book published during that year.
 
 ```js
-let author = {
+let historicalAuthors = {
   'Mark Twain': [
     { name: 'The Gilded Age', year: 1873 },
     { name: 'The American Claimant', year: 1892 }, 
@@ -21,11 +21,11 @@ let author = {
   ],
 }
 
-function bookPublished(authorObj, name, year) {
+function bookPublished(authors, name, year) {
   // write your code here
 }
-console.log(bookPublished(author, 'Leo Tolstoy', 1911)); // true
-console.log(bookPublished(author, 'Arthur Conan Doyle', 1891)); // false
-console.log(bookPublished(author, 'Mark Twain', 1892)); // true
+console.log(bookPublished(historicalAuthors, 'Leo Tolstoy', 1911)); // true
+console.log(bookPublished(historicalAuthors, 'Arthur Conan Doyle', 1891)); // false
+console.log(bookPublished(historicalAuthors, 'Mark Twain', 1892)); // true
 
 ```
