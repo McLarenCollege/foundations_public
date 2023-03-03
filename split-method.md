@@ -1,5 +1,5 @@
 
-## String Manipulation
+### Split Method
 
 Create a function that utilizes inbuilt javascript methods  to produce the desired output.
 
