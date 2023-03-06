@@ -17,14 +17,14 @@ function findAllN(alphabets){
 console.log(findAllN(alph)); // should return [1,5,8]
 ```
 #### Task 1
-#### index-of-method-contains-vowel
+
 Using the `indexOf` method if the array contains a vowel update `result` to "VOWEL ARRAY" other wise set it's value to  "CONSONANT ARRAY".
 
 #### Task 2
-#### index-of-method-second-occurance-x
+
 Refer the documentation of the indexOf Method and print the index of the second occurance of the alphabet 'x'.
 
 #### Task 3
-#### index-of-method-findAllN
+
 Create a function `findAllN` that returns an array of the index numbers of all the occurances of the alphabet 'n'
  
