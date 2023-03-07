@@ -7,7 +7,7 @@ let nums = {
     }
 }
 ```
-1. Create a deep copy of the nums object and name it nums2
+1. Create a deep copy of the nums object and name it copyNums
 2. Add 8 to the even array in the nums object.
 3. Add 11 to the prime array in the nums object.
 4. Print the two objects nums and nums2. The changes made in the nums object must not be reflected in the nums2 object.
