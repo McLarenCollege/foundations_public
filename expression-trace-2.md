@@ -1,4 +1,4 @@
-Guess the output of the following code by writing an expression trace
+Write an expression trace for the following code.
 
 ```js
 
