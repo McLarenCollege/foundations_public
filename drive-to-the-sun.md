@@ -4,12 +4,11 @@ Calculate the time in years required to reach the Sun by the person.
 
 Note: It should be assumed 365 days per year.
 
-***CODE TEMPLATE***
-**********************************
+**Starting Answer**
 ```js
-let distanceToSun = ;
-let drivingSpeed = ;
-let time = ;
-console.log(time);
+let distanceToSun = 150000000;
+let drivingSpeed = 60;
+let timeInYears = ;
+console.log(timeInYears);
 ```
-********************************
+
