@@ -3,7 +3,7 @@
 ### Useful Links
 - [Class Timetable](./class-timetable-batch-4-2.md) : These are the days we will be teaching
 - [Class Zoom Link](https://us02web.zoom.us/j/82631626589) : Join this zoom call at the scheduled time
-- [Leave Request Form]() : You must submit this form if you are unable to attend the class
+- [Leave Request Form](https://airtable.com/shrCFa84qUP2zt1Ig) : You must submit this form if you are unable to attend the class
 - [Strong Foundations Platform](https://student.mclarencollege.com/foundations/) : Login to this website to submit your answers during class and homework after class
 
 ### General Rules
