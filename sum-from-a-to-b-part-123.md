@@ -2,7 +2,7 @@
 
 ## Part1
 Create a function with two parameters a and b that calculates the sum of all the numbers between a and b and returns it.
-Both a and b are included in the sum.You can assue that a will be smaller than b.
+Both a and b are included in the sum.You can assume that a will be smaller than b.
 
 
 ***CODE TEMPLATE***
