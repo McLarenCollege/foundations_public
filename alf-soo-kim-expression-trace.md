@@ -1,6 +1,6 @@
 ```js
 // Write an expression Trace 
-// for lines 8, 9 and 10
+
 let alf = 'hello';
 let soo = 1 + 4 * 4;
 let kim = '-';
