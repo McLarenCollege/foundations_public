@@ -9,6 +9,7 @@
 ### General Rules
 - This course is free, but we require your time and effort.  You must actively participate.
 - Most students without programming experience will need to spend 2-4 hours per day doing the assignments and practicing
+- Class recordings will be available two hours after the class and the link will be shared on the channel.
 - recording might be published on You Tube. Students can choose to keep their camera off during the class but that would mean they wont be able to ask questions.
 - You may take 1 day's leave for the entire duration of the course with 24 hours notice.
 - You need to put in your leave request in your course specific form, and once your instructor approves the leave, you are permitted to take it
