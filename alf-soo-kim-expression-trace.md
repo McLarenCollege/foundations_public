@@ -11,3 +11,4 @@ alf = alf + ((3 * soo) <= (soo - 3));
 console.log(ping);
 console.log(alf);
 ```
+Note: Line 8 is `kim + soo % 5`
