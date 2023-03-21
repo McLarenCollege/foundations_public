@@ -1,6 +1,5 @@
+Write an expression Trace for lines 8, 9 & 10. Write the output for lines 11 & 12
 ```js
-// Write an expression Trace 
-
 let alf = 'hello';
 let soo = 1 + 4 * 4;
 let kim = '-';
