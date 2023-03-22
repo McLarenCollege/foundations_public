@@ -1,4 +1,4 @@
-You have 5 apples and 4 pears, each apple cost $1 and each pear cost $1.25, what is the average price per fruit.
+You have 13 apples and 4 pears, each apple cost $1 and each pear cost $1.25, what is the average price per fruit.
 
 ```js
 
