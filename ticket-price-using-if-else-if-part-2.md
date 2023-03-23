@@ -22,6 +22,7 @@ console.log("Ticket price is " + price);
 ### Part2
 Below is the solution for the code and it  uses if-else. 
 Modify the Code and use if-else-if to make it cleaner
+
 ```js
 let age = 21;
 let day = "Monday";
