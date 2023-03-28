@@ -5,9 +5,9 @@ Create a function that accepts a month, and day, and returns `true` if it's Chri
 
 ## Examples
 ```js
-timeForMilkAndCookies(new Date(2013, 11, 24)); // should return true
+timeForMilkAndCookies(11, 24); // should return true
 
-timeForMilkAndCookies(new Date(2013, 0, 23)); // should return false
+timeForMilkAndCookies( 0, 23); // should return false
 
-timeForMilkAndCookies(new Date(3000, 11, 24)); // should return true
+timeForMilkAndCookies(11, 24); // should return true
 ```
