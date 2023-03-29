@@ -8,6 +8,6 @@ function addTotal(arr){
 // write your code here
 }
 
-console.log(addTotal([1, 2, 3, 4]));
-console.log(addTotal([5, 5, 5, 5]));
+console.log(addTotal([1, 2, 3, 4])); // [1, 2, 3, 4, 10]
+console.log(addTotal([5, 5, 5, 5])); // [5, 5, 5, 5, 20]
 ```
