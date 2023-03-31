@@ -18,4 +18,4 @@ to print the following pattern
  *
 * 
 ```
-( 2 spaces followed by a start, 1 space and a star , 1 star)
+( 2 spaces followed by a star, 1 space and a star , 1 star)
