@@ -23,5 +23,5 @@ let fruitShop = {
   }
 };
 recordSale(fruitShop, 'orange', 140); // should return false
-recordSale(fruitShop, 'orange', 50); // should return false, and fruitShop object should be updated
+recordSale(fruitShop, 'orange', 50); // should return true, and fruitShop object should be updated
 ```
