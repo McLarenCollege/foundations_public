@@ -1,6 +1,7 @@
 Write a function that  inserts an element at the begining of an array and returns the modified array.
 
 Note: You cannot create a new array
+Note: You cannot use the inbuilt unshift method
 
 ***CODE TEMPLATE***
 ***************************
