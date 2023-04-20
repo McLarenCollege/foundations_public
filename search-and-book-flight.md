@@ -1,11 +1,11 @@
-Create a function `bookFlightAdvance` that takes in a `flights` array, a `source` airport, a `destination` aiport, a seat class and the number of tickets to be booked and returns `true/false` depending on whether the booking can be made.
+Create a function `searchAndBookFlight` that takes in a `flights` array, a `source` airport, a `destination` aiport, a seat class and the number of tickets to be booked and returns `true/false` depending on whether the booking can be made.
 If the given source and destination flight doesn't exist then return false.
 Note that the number of booked tickets should always be less than or equal to the capacity of the flight after the booking has been made.
 
-**HINT**: Use the previously written `bookFlight` function
+**Note**: You must use the previously written `bookFlight` function
 
 ```js
-function bookFlightAdvance(flights, source, destination, seatClass, numTickets) {
+function searchAndBookFlight(flights, source, destination, seatClass, numTickets) {
   // Write your code here
 }
 
