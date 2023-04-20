@@ -48,9 +48,9 @@ let allFlights = [
   }
 ];
 
-console.log(bookFlight(allFlights, "LHR", "CDG", "economy", 2)); // 200.0
-console.log(bookFlight(allFlights, "LON", "JFK", "economy", 2)); // false
-console.log(bookFlight(allFlights, "LHR", "CDG", "first", 2)); // false
-console.log(bookFlight(allFlights, "LAX", "JFK", "business", 2)); // 1000.0
-console.log(bookFlight(allFlights, "LAX", "CDG", "business", 2)); // false
+console.log(searchAndBookFlight(allFlights, "LHR", "CDG", "economy", 2)); // 200.0
+console.log(searchAndBookFlight(allFlights, "LON", "JFK", "economy", 2)); // false
+console.log(searchAndBookFlight(allFlights, "LHR", "CDG", "first", 2)); // false
+console.log(searchAndBookFlight(allFlights, "LAX", "JFK", "business", 2)); // 1000.0
+console.log(searchAndBookFlight(allFlights, "LAX", "CDG", "business", 2)); // false
 ```
