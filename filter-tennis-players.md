@@ -60,9 +60,9 @@ console.log(JSON.stringify(filterTennisPlayers(groupA, false, 3)));
 /*
 should return 
 [
- { name: 'Martina Hingis', isRetired: true, age: 41 },
- { name: 'Rafael Nadal', isRetired: false, age: 36 },
  { name: 'Martina Navratilova', isRetired: true, age: 65 },
+ { name: 'Rafael Nadal', isRetired: false, age: 36 },
+ { name: 'Martina Hingis', isRetired: true, age: 41 },
 ]
 */
 ```
